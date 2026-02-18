@@ -1,4 +1,4 @@
-# 🔍 Sentinel Log Monitor — Linux Log Anomaly Detection & Alerting# Sentinel_log_monitor
+# Sentinel_log_monitor
 
 Real-time log anomaly detection for Linux. Tails your system logs, matches patterns you define in YAML, and fires off a Slack or email alert when something looks wrong. No Elasticsearch, no Kibana, no cloud account needed.
 
